@@ -187,7 +187,7 @@ public class AtualizaFuncionario extends javax.swing.JFrame {
                 JOptionPane.showMessageDialog(null, "Registro atualizado com sucesso!");
             }
             else{
-                JOptionPane.showMessageDialog(null, "Problema ao atualizar");
+                JOptionPane.showMessageDialog(null, "Problema ao atualizar!");
             }
         
     }//GEN-LAST:event_jButton1ActionPerformed
